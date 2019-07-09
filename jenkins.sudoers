@@ -1,0 +1,2 @@
+#Copy this file to /etc/sudoers file
+jenkins ALL=(ALL) NOPASSWD: ALL
